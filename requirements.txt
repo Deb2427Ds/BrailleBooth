@@ -1,6 +1,6 @@
 streamlit
 pytesseract
 transformers
-Pillow
 torch
+Pillow
 pyttsx3
